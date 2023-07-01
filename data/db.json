@@ -1,0 +1,46 @@
+{
+    "products" : [
+        {
+            "id" : 10001,
+            "name" : "The Web Developer Bootcamp",
+            "price" : 100,
+            "in_stock": true
+        },
+        {
+            "id" : 10002,
+            "name" : "JavaScript: The Complete Guide",
+            "price" : 50,
+            "in_stock": false
+        },
+        {
+            "id" : 10003,
+            "name" : "The Complete Web Developer Course",
+            "price" : 200,
+            "in_stock": true
+        },
+        {
+            "id" : 10004,
+            "name" : "Modern React with Redux",
+            "price" : 150,
+            "in_stock": false
+        },
+        {
+            "id" : 10005,
+            "name" : "Node.js, Express & MongoDB Dev to Deployment",
+            "price" : 80,
+            "in_stock":true
+        },
+        {
+            "id" : 10006,
+            "name" : "CSS - The Complete Guide 2023 ",
+            "price" : 120,
+            "in_stock":true
+        },
+        {
+            "id" : 10007,
+            "name" : "Advanced CSS and Sass",
+            "price" : 145,
+            "in_stock":false
+        }
+    ]
+}

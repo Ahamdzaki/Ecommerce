@@ -1,0 +1,66 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.btn {
+  margin: 15px;
+  margin-bottom: 30px;
+}
+
+.card {
+  background-color: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  padding: 16px;
+  margin-bottom: 16px;
+}
+
+.id {
+  font-size: 16px;
+
+  background-color: #f1f1f1;
+  padding: 2px 4px;
+  /* Reduce the padding to make it occupy less space */
+  border-radius: 4px;
+  margin-bottom: 8px;
+  display: inline-block;
+  /* Display inline to take up less vertical space */
+}
+
+.name {
+  font-size: 20px;
+  margin-bottom: 8px;
+  font-weight: bold;
+}
+
+.info {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.price {
+  background-color: aqua;
+  font-size: 18px;
+  font-weight: bold;
+  margin-right: 8px;
+  padding: 4px 8px;
+  border-radius: 4px;
+}
+
+.in_stock {
+  background-color: #4caf50;
+  color: #ffffff;
+  padding: 4px 8px;
+  border-radius: 4px;
+}
+
+.unavailable {
+  background-color: #f44336;
+  color: #ffffff;
+  padding: 4px 8px;
+  border-radius: 4px;
+}
